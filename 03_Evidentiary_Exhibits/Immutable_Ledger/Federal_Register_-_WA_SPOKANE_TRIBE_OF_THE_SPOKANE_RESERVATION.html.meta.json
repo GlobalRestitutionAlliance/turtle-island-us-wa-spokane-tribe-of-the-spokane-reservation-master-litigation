@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=WA+SPOKANE+TRIBE+OF+THE+SPOKANE+RESERVATION",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=WA+SPOKANE+TRIBE+OF+THE+SPOKANE+RESERVATION",
+  "title": "Federal Register - WA SPOKANE TRIBE OF THE SPOKANE RESERVATION",
+  "fetched_at": "2026-11-23T17:50:24.579730Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 330828,
+  "sha256": "c68f692047da8d64c7a2066462fd5e00181b90cda96999942f636712608edfc9",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
